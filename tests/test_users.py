@@ -1,5 +1,3 @@
-from asyncio.windows_events import NULL
-from pickle import NONE
 from app import schemas
 
 # from .database import client, session
